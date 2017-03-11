@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+}
+
+.diagram-container {
+    height: 100vh;
+    width: 100vw;
+    background-color: #DAE4E4;
+}
+
+.overview-container {
+    position: fixed;
+    bottom: 2em;
+    right: 2em;
+    width: 10em;
+    height: 10em;
+    border: thin solid black;
+    z-index: 10;
+}
